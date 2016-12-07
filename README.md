@@ -7,6 +7,7 @@ Reactive bitHowls is a collaboration between [Marc Jones](https://soundcloud.com
 ### instructions:
 Open the "Mice_WillRebeccaMarc" Max project then open the main max patcher. Activate the ADC and DAC (microphone and speaker objects) on the patch, then initiate the program by pressing the "space-bar". The patch will consume your full display, if you want to return to the patching screen, press the "space-bar" again. 
 
+[tutorial used here](http://audiovisualacademy.com/avin/en/software/maxmspjitter-masato-tsutsui-audio-part-1/)
 
 ![alt tag](https://github.com/marcjones-io/reactive-bithowls/blob/master/screenshots/maxpat%20screenshot.jpeg)
 ![alt tag](https://github.com/marcjones-io/reactive-bithowls/blob/master/screenshots/bithowl%20screenshot1.png)
