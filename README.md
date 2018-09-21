@@ -2,7 +2,7 @@
 An interactive audio-visual environment written for performance with Virginia's Mobile Interactive Computer Ensemble
 
 ### about:
-Reactive bitHowls is a collaboration between [Marc Jones](https://soundcloud.com/marcjones-67394036), [Rebecca Beauchamp (SWAN MEAT)](https://soundcloud.com/rebabeauchamp), and [Will Mulaney (ING)](https://www.facebook.com/ingthebandfromvirginia/?pnref=story.unseen-section) made using the visual programming langauge Max. This piece takes in audio via the system microphone, analyzes its frequency range and produces reactive audio and visuals. The visuals are generated using Jitter for Max, while the sound generation is handled within Max using FM synthesis to create tones which are then locked into a harmonic scale. The reactive "[Unknown Pleasures](https://en.wikipedia.org/wiki/Unknown_Pleasures)" visuals were inspired by the work of the masterful [Masato Tsutsui](http://adsr.jp)
+Reactive bitHowls is a collaboration between [Marc Jones](https://soundcloud.com/marcjones-67394036), [Rebecca Beauchamp (SWAN MEAT)](https://soundcloud.com/rebabeauchamp), and [Will Mulaney (ING)](https://www.facebook.com/ingthebandfromvirginia/?pnref=story.unseen-section) made using the visual programming langauge Max. This piece takes in audio via the system microphone, analyzes its frequency range and produces reactive audio and visuals. The visuals are generated using Jitter for Max, while the sound generation is handled within Max using FM synthesis to create tones which are then locked into a harmonic scale. The reactive "[Unknown Pleasures](https://en.wikipedia.org/wiki/Unknown_Pleasures)" visuals were inspired by the work of the masterful [Masato Tsutsui](http://adsr.jp).
 
 
 ### instructions:
